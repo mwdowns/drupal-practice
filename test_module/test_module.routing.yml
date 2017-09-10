@@ -1,5 +1,5 @@
 test_module.content:
-  path: '/hello'
+  path: '/test_module'
   defaults:
     _controller: '\Drupal\test_module\Controller\test_moduleController::content'
     _title: 'Testing'
